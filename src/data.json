@@ -1,0 +1,189 @@
+[
+  {
+    "name": "pending",
+    "status": "pending",
+    "colour": "#118ab2",
+    "data": [
+      {
+        "x": "Machine3",
+        "y": ["2022/10/08 08:05:16", "2022/10/08 08:06:25"]
+      }
+    ]
+  },
+  {
+    "name": "error",
+    "status": "error",
+    "colour": "#ef476f",
+    "data": [
+      {
+        "x": "Machine2",
+        "y": ["2022/10/08 08:06:25", "2022/10/08 08:06:28"]
+      }
+    ]
+  },
+  {
+    "name": "online",
+    "status": "online",
+    "colour": "#06d6a0",
+    "data": [
+      {
+        "x": "Machine1",
+        "y": ["2022/10/08 08:06:28", "2022/10/08 08:06:31"]
+      }
+    ]
+  },
+  {
+    "name": "offline",
+    "status": "offline",
+    "colour": "#073b4c",
+    "data": [
+      {
+        "x": "Machine1",
+        "y": ["2022/10/08 08:06:31", "2022/10/08 08:06:50"]
+      }
+    ]
+  },
+  {
+    "name": "warning",
+    "status": "warning",
+    "colour": "#ffd166",
+    "data": [
+      {
+        "x": "Machine1",
+        "y": ["2022/10/08 08:06:50", "2022/10/08 08:07:05"]
+      }
+    ]
+  },
+  {
+    "name": "warning",
+    "status": "warning",
+    "colour": "#ffd166",
+    "data": [
+      {
+        "x": "Machine1",
+        "y": ["2022/10/08 08:07:05", "2022/10/08 08:08:05"]
+      }
+    ]
+  },
+  {
+    "name": "offline",
+    "status": "offline",
+    "colour": "#073b4c",
+    "data": [
+      {
+        "x": "Machine1",
+        "y": ["2022/10/08 08:08:05", "2022/10/08 08:08:36"]
+      }
+    ]
+  },
+  {
+    "name": "online",
+    "status": "online",
+    "colour": "#06d6a0",
+    "data": [
+      {
+        "x": "Machine1",
+        "y": ["2022/10/08 08:08:36", "2022/10/08 08:10:00"]
+      }
+    ]
+  },
+  {
+    "name": "error",
+    "status": "error",
+    "colour": "#ef476f",
+    "data": [
+      {
+        "x": "Machine1",
+        "y": ["2022/10/08 08:10:00", "2022/10/08 08:12:35"]
+      }
+    ]
+  },
+  {
+    "name": "pending",
+    "status": "pending",
+    "colour": "#118ab2",
+    "data": [
+      {
+        "x": "Machine1",
+        "y": ["2022/10/08 08:12:35", "2022/10/08 08:12:50"]
+      }
+    ]
+  },
+  {
+    "name": "offline",
+    "status": "offline",
+    "colour": "#073b4c",
+    "data": [
+      {
+        "x": "Machine1",
+        "y": ["2022/10/08 08:12:50", "2022/10/08 08:13:12"]
+      }
+    ]
+  },
+  {
+    "name": "online",
+    "status": "online",
+    "colour": "#06d6a0",
+    "data": [
+      {
+        "x": "Machine1",
+        "y": ["2022/10/08 08:13:12", "2022/10/08 08:13:41"]
+      }
+    ]
+  },
+  {
+    "name": "error",
+    "status": "error",
+    "colour": "#ef476f",
+    "data": [
+      {
+        "x": "Machine1",
+        "y": ["2022/10/08 08:13:41", "2022/10/08 08:13:56"]
+      }
+    ]
+  },
+  {
+    "name": "warning",
+    "status": "warning",
+    "colour": "#ffd166",
+    "data": [
+      {
+        "x": "Machine1",
+        "y": ["2022/10/08 08:13:56", "2022/10/08 08:14:01"]
+      }
+    ]
+  },
+  {
+    "name": "error",
+    "status": "error",
+    "colour": "#ef476f",
+    "data": [
+      {
+        "x": "Machine1",
+        "y": ["2022/10/08 08:14:01", "2022/10/08 08:14:13"]
+      }
+    ]
+  },
+  {
+    "name": "online",
+    "status": "online",
+    "colour": "#06d6a0",
+    "data": [
+      {
+        "x": "Machine1",
+        "y": ["2022/10/08 08:14:13", "2022/10/08 08:14:22"]
+      }
+    ]
+  },
+  {
+    "name": "offline",
+    "status": "offline",
+    "colour": "#073b4c",
+    "data": [
+      {
+        "x": "Machine1",
+        "y": ["2022/10/08 08:14:22", "2022/10/08 08:14:33"]
+      }
+    ]
+  }
+]
